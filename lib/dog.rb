@@ -17,4 +17,7 @@ fido.name
     @breed = doggy_breed
   end
   
+  def breed
+    @breed
+  
 end
