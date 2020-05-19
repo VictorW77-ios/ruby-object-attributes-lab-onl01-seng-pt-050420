@@ -1,5 +1,5 @@
 class Person 
-  def person(name)
+  def person(famous_name)
     @name
   end
 end 
