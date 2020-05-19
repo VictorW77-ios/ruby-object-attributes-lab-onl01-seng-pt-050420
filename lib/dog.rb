@@ -4,6 +4,6 @@ class Dog
     @name = doggy_name
   end
   
-  fido = Dog.new
+  
+endfido = Dog.new
   fido.name = "Fido"
-end
